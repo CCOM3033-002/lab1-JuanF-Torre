@@ -18,7 +18,7 @@ int main() {
     double gross, net, distributor;
 
     // Desplegar proposito
-    cout << "This program calculates the Gross and Net Box Office Profit and the Distributor's Profit of a movie playing in the theater.\n\n";
+    cout << "This program calculates the Gross, the Net Box Office Profit and the Distributor's Profit of a movie playing in the theater.\n\n";
 
     // Pedir el nombre de la pelicula
     cout << " Enter the name of the movie: ";
