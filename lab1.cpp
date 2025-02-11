@@ -1,5 +1,5 @@
 /*
-\Laboratorio 1: Box office
+Laboratorio 1: Box office
 Juan F. Torré García
 801-24-9424
 Profa. Lillian Gonzalez Albino 
